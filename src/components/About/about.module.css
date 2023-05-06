@@ -1,0 +1,38 @@
+.About {
+    color: #ffffffe1;
+    padding: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.SecondAbout {
+    width: 100%;
+}
+
+.AboutTitle {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #FFF766;
+    margin-bottom: .75rem;
+}
+
+.AboutText {
+    font-size: 1rem;
+    line-height: 1.75em;
+}
+
+.WhyPoogle{
+    padding-top: 2rem;
+}
+@media screen and (min-width:992px) {
+    .About {
+        flex-direction: row;
+        gap: 5rem;
+        align-items: flex-start;
+    }
+
+    .SecondAbout {
+        width: 48%;
+    }
+}

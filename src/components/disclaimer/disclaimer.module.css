@@ -1,0 +1,16 @@
+.wrapper{
+    padding: 1rem 0;
+}
+.wrapper h2{
+    color: #fff567;
+    margin-bottom: 0.5rem;
+}
+.text{
+    font-style: italic;
+    margin-bottom: 0.75rem;
+}
+@media screen and (min-width: 768px) {
+    .wrapper{
+        width: 60%;
+    }
+}
