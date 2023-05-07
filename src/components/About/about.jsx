@@ -11,19 +11,15 @@ function About() {
             About Poogle
           </h1>
           <p className={style.AboutText} >
-            Poogle is a token that is powered by a community of users who
-            collaborate to build a thriving, community-driven artificial
-            intelligence social meme ecosystem. Poogle leverages the
-            capabilities of AI and machine learning to analyze market trends,
-            coupled with a keen understanding of social media sentiment and user
-            behavior. On Poogle, users are active participants in
-            decision-making through democratic voting mechanisms, ensuring
-            transparency and accountability at every stage. The memecoin also
-            provides rewards and incentives for those who are actively engaged,
-            promoting shared ownership and greater involvement. By embracing
-            this community-driven approach, Poogle creates a more inclusive,
-            transparent, and user-friendly community in the realm of AI-powered
-            social finance.
+          With the convergence of AI, 
+          social networking, and decentralized identity,
+           we introduce Poogle. In the growing world of crypto, 
+           where bad actors abound and can quickly control and influence 
+           narratives with false identities on social media, 
+           Poogle will employ AI and social tools to investigate 
+           bad players and unmask their true identities.
+            As identity theft is a recurrent theme,
+             decentralized IDs could be a solution
           </p>
         </div>
 
@@ -40,12 +36,11 @@ function About() {
               Why Poogle?
             </h1>
             <p className={style.AboutText} >
-              The explosive growth of AI is transforming how we understand
-              systems, create, and exchange it. It is helping to unlock a new
-              way to see and exploit value. Combined with the heavy
-              data-generating platforms like social media and the new form of
-              money, cryptocurrency, we want to build a community where everyone
-              contributes to and extracts value like never before.
+            Addresses bad actors in crypto.
+             Uses AI and social tools to unmask true identities. 
+             Join us to safeguard the crypto world and ensure
+              the authenticity of players, especially on social media.
+
             </p>
           </div>
         </div>

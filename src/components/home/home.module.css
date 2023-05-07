@@ -117,7 +117,7 @@
 }
 
 .heroH1 {
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 1.15em;
     margin-top: 3rem;
     max-width: 400px;
@@ -140,6 +140,11 @@
     color: #FFF766;
 }
 
+@media screen and (max-width:920px) {
+  .heroH1{
+    font-size: 2rem;
+  }  
+}
 @media screen and (min-width:540px) {
     .heroDes {
         flex-direction: row;
