@@ -75,7 +75,7 @@ function Tokenomics() {
         <div className={style.details}>
           <div>
           <h3 className={style.color}>Community, Marketing, Development & Chest</h3>
-          <p>10% will be initially unlocked at token sal and th 5% to be unlocked every 2 months. But the chst will remain untouched until other allocations have been expended.</p>
+          <p>10% will be initially unlocked at token sale and the 5% to be unlocked every 2 months. But the chest will remain untouched until other allocations have been expended.</p>
           </div>
           <div>
           <h3 className={style.color}>Burn / Tax</h3>
