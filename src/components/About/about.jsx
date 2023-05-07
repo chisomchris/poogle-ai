@@ -25,10 +25,10 @@ function About() {
 
         <div className={style.SecondAbout}  data-aos="fade-up">
           <h1 className={style.AboutTitle} >
-            Vision
+          Poogle&rsquo;s Vision
           </h1>
           <p className={style.AboutText} >
-          Poogle`s vision is to protect individuals from bad actors
+          Poogle&rsquo;s vision is to protect individuals from bad actors
            in the crypto world by employing AI and 
            social tools to investigate and unmask their true identities.
             We believe decentralized IDs could be the solution.
