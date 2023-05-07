@@ -18,7 +18,7 @@ function Nav() {
             <h2 className={style.poogleLinks}>Poogle</h2>
           </div>
 
-          <button className={style.hamburger} onClick={toggle}>
+          <button className={style.hamburger} onClick={toggle} aria-label="Hambuger menu toggle">
             {isExpanded ? (
               <FaTimes style={{ fontSize: "1.75rem" }} />
             ) : (

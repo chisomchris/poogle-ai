@@ -17,18 +17,18 @@ function community() {
         </p>
         <ul className={style.social_links}>
           <li>
-            <a href="/" target="_blank">
+            <a href="/" target="_blank" aria-label="Poogle AI community Telegram page">
               <FaTelegramPlane className={style.icon} />
             </a>
           </li>
           <li>
             <a
               href=" https://twitter.com/poogle_ai" target="_blank">
-              <IoLogoTwitter className={style.icon} />
+              <IoLogoTwitter className={style.icon} aria-label="Poogle AI community Twiiter page"/>
             </a>
           </li>
           <li>
-            <a href="https://poogle.medium.com">
+            <a href="https://poogle.medium.com" aria-label="Poogle AI community Medium account">
               <BsMedium className={style.icon} />
             </a>
           </li>
