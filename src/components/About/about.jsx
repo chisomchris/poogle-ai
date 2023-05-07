@@ -28,8 +28,10 @@ function About() {
             Vision
           </h1>
           <p className={style.AboutText} >
-            To build a close-knit, collaborative, more inclusive, and engaging
-            social community that benefits every member.
+          Poogle`s vision is to protect individuals from bad actors
+           in the crypto world by employing AI and 
+           social tools to investigate and unmask their true identities.
+            We believe decentralized IDs could be the solution.
           </p>
           <div className={style.WhyPoogle}>
             <h1 className={style.AboutTitle} >
