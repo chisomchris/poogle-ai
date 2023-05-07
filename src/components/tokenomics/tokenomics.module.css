@@ -30,7 +30,7 @@
     gap: var(--gap);
 }
 
-.grid_container:last-child {
+.grid_container:nth-of-type(2) {
     gap: 2rem;
     margin-top: calc(var(--gap) * 1.5);
 }
@@ -75,7 +75,10 @@
     }
 
     .details div:nth-child(1) {
-        width: 60%;
+        width: 55%;
+    }
+    .details div:nth-child(1) p{
+        max-width: 420px;
     }
 
     .details div:nth-child(2) {

@@ -81,7 +81,7 @@ function Tokenomics() {
           <h3 className={style.color}>Burn / Tax</h3>
           <p>Quarterly burn using 50% accumulated tax. Remaining 50% will go to charity.</p>
 
-          <p><span className={style.color}>Unsolved tokens</span> will be burnt</p>
+          <p><span className={style.color}>Unsold tokens</span> will be burnt</p>
           </div>
           </div>
         </div>
