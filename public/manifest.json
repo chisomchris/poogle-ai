@@ -1,0 +1,21 @@
+{
+  "short_name": "Poogle AI",
+  "name": "Poogle AI -The AI Dog, Future of Reputation",
+  "icons": [
+    {
+      "src": "poogle2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "poogle2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://poogle-ai.vercel.app",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#052323",
+  "prefer_related_applications": true 
+}

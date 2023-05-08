@@ -1,9 +1,8 @@
-import  { useEffect } from "react";
 import style from "./home.module.css";
+import poddle from "../../assets/poodle.png";
+import { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import logo from "../../assets/Poogle.png";
-import poddle from "../../assets/poodle.png";
 
 function Home() {
   useEffect(() => {
@@ -13,34 +12,6 @@ function Home() {
   return (
     <div className={style.mainHeroDiv} id="home">
       <div className={`container `}>
-        <nav className={style.nav}>
-          <div className={style.logo}>
-            <img
-              src={logo}
-              width="100px"
-              height="100px"
-              alt="imggg"
-              data-aos="zoom-in"
-            />
-            <h1 className={style.poogle}>Poogle</h1>
-          </div>
-          <ul className={style.links}>
-            <li>
-              {" "}
-              <a href="#tokenomics"> Tokenomics</a>
-            </li>
-            <li>
-              {" "}
-              <a href="#community">Community</a>
-            </li>
-            <li>
-              <button className={style.launchBtn} data-aos="zoom-in">
-                {" "}
-                Launch&nbsp;App
-              </button>
-            </li>
-          </ul>
-        </nav>
         <div className={style.grid_container}>
           <div className={style.heroDes}>
             <div className={style.hero_text}>
